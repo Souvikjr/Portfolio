@@ -59,7 +59,7 @@ function Home() {
       const submit = async () => {
         
         if(!submassage.Name || !submassage.Email || !submassage.Massage){
-            alert("Please Fill The From Correctly")
+            alert("Please Fill This Form Correctly")
         }else{
             const data = submassage;
             // console.log(data1);
