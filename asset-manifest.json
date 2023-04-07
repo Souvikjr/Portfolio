@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.64d233d8.css",
+    "main.js": "/Portfolio/static/js/main.e5c094bd.js",
+    "static/media/anim.gif": "/Portfolio/static/media/anim.d2b4074a3e42c10ae57b.gif",
+    "static/media/01g.jpg": "/Portfolio/static/media/01g.89eedf882beb82be8914.jpg",
+    "static/media/ghost.gif": "/Portfolio/static/media/ghost.ace247e186c7beb8a3bc.gif",
+    "static/media/glass.jpg": "/Portfolio/static/media/glass.bb07b4bf5741b220c86b.jpg",
+    "static/media/syd.png": "/Portfolio/static/media/syd.f370d8d75cbbfd78d532.png",
+    "static/media/responsive.png": "/Portfolio/static/media/responsive.612ed2f7c8fd0fa73718.png",
+    "static/media/font.webp": "/Portfolio/static/media/font.5e7e8a3ea2c2a55bf377.webp",
+    "static/media/dis.png": "/Portfolio/static/media/dis.87508dedac3b5295763b.png",
+    "static/media/info.avif": "/Portfolio/static/media/info.d5114cbcccb954d0efb0.avif",
+    "static/media/mode.jpg": "/Portfolio/static/media/mode.dfa88e502cfabdefddbd.jpg",
+    "static/media/gradient.avif": "/Portfolio/static/media/gradient.1271b3715bd7185352fd.avif",
+    "static/media/mongo.avif": "/Portfolio/static/media/mongo.325e496715d81dad3b67.avif",
+    "index.html": "/Portfolio/index.html",
+    "main.64d233d8.css.map": "/Portfolio/static/css/main.64d233d8.css.map",
+    "main.e5c094bd.js.map": "/Portfolio/static/js/main.e5c094bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64d233d8.css",
+    "static/js/main.e5c094bd.js"
+  ]
+}
