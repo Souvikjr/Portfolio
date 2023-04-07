@@ -1,0 +1,33 @@
+.mbee5{
+    
+    border: var(--quiz-bdr);
+    border-radius: 12px;
+
+    background-image: var(--quiz-background);
+
+    -webkit-box-shadow: 0px 2px 12px 10px rgba(0,0,0,0.73); 
+    box-shadow: 0px 2px 12px 10px rgba(0,0,0,0.73);
+    max-width: 1300px;
+    margin-left: 2%;
+    margin-right: 2%;
+    width: 96%;
+    margin-top: 5%;
+    padding: 3%;
+    margin-bottom: 5%;
+    /* justify-content: center;
+    align-items: center; */
+    /* display: flex; */
+    
+ }
+
+ .gamedismain{
+    /* background-image: url('../Images/dis.png');
+    background-repeat: no-repeat;
+    background-size:cover; */
+    background-image: url('../Images/quiz_pattern_2.png');
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: 'Libre Baskerville', serif;
+   }
